@@ -2,8 +2,8 @@ POST http://localhost:3333/products
 Content-Type: application/json
 
 {
-  "name": "dssesisto",
-  "description": "sim",
+  "name": "Arroz",
+  "description": "Saco de 2kg de Arroz",
   "price": "60.00",
   "stock": "20"
 }
@@ -19,10 +19,10 @@ PUT  http://localhost:3333/products/91c52da3-3220-4820-8fd7-a5df020ae953
 Content-Type: application/json
 
 {
-  "name": "Produto 02",
-  "description": "arroz da marca tal",
-  "price": "35.0",
-  "stock": "40"
+  "name": "Arroz Integral",
+  "description": "Saco de 2kg de Arroz Integral",
+  "price": "70",
+  "stock": "15"
 }
 
 ###
